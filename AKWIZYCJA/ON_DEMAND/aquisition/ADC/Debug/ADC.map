@@ -1,0 +1,2128 @@
+Archive member included because of file (symbol)
+
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3.o)
+                              src/main.o (__addsf3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3.o) (__addsf3x)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(floatsisf.o)
+                              src/main.o (__floatsisf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_inf.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o) (__fp_inf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_nan.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o) (__fp_nan)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscA.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o) (__fp_pscA)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscB.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o) (__fp_pscB)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_round.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3.o) (__fp_round)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_split3.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o) (__fp_split3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_zero.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o) (__fp_zero)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3.o)
+                              src/main.o (__mulsf3)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3x.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3.o) (__mulsf3x)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o)
+                              (vfprintf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+                              src/ASF/xmega/drivers/usart/usart.o (__udivmodsi4)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o (exit)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+                              src/ASF/common/services/sleepmgr/xmega/sleepmgr.o (__do_copy_data)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+                              src/ASF/common/services/sleepmgr/xmega/sleepmgr.o (__do_clear_bss)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ftoa_engine.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o) (__ftoa_engine)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o) (strnlen_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+                              src/ASF/xmega/drivers/nvm/nvm.o (memcpy)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr.o)
+                              src/main.o (strchr)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o) (strnlen)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o)
+                              src/main.o (fdevopen)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o) (fputc)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(iob.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o) (__iob)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(printf.o)
+                              src/main.o (printf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(scanf.o)
+                              src/main.o (scanf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(sprintf.o)
+                              src/main.o (sprintf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o) (__ultoa_invert)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(scanf.o) (vfscanf)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o) (calloc)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o) (malloc)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o) (isspace)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr_P.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o) (strchr_P)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memset.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o) (memset)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fgetc.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o) (fgetc)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ungetc.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o) (ungetc)
+c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+                              c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(isspace.o) (__ctype_isfalse)
+
+Allocating common symbols
+Common symbol       size              file
+
+adcb_callback       0x2               src/ASF/xmega/drivers/adc/adc.o
+ptr_get             0x2               src/ASF/common/utils/stdio/read.o
+__brkval            0x2               c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+ptr_put             0x2               src/ASF/common/utils/stdio/write.o
+stdio_base          0x2               src/ASF/common/utils/stdio/write.o
+sleepmgr_locks      0x6               src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+__flp               0x2               c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+__iob               0x6               c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(iob.o)
+adca_callback       0x2               src/ASF/xmega/drivers/adc/adc.o
+
+Discarded input sections
+
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/boards/user_board/init.o
+ .text          0x00000000        0x0 src/ASF/common/boards/user_board/init.o
+ .data          0x00000000        0x0 src/ASF/common/boards/user_board/init.o
+ .bss           0x00000000        0x0 src/ASF/common/boards/user_board/init.o
+ .text.board_init
+                0x00000000        0x2 src/ASF/common/boards/user_board/init.o
+ .debug_info    0x00000000      0x1ac src/ASF/common/boards/user_board/init.o
+ .debug_abbrev  0x00000000       0xd8 src/ASF/common/boards/user_board/init.o
+ .debug_aranges
+                0x00000000       0x20 src/ASF/common/boards/user_board/init.o
+ .debug_ranges  0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x2d9 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0xa6c src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x166 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x66 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x175 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x20 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x248 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x68 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x2f src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000      0x154 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0xc7 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x82 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x58 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0xeb src/ASF/common/boards/user_board/init.o
+ .debug_macro   0x00000000       0x3a src/ASF/common/boards/user_board/init.o
+ .debug_line    0x00000000      0x780 src/ASF/common/boards/user_board/init.o
+ .debug_str     0x00000000    0x27af1 src/ASF/common/boards/user_board/init.o
+ .comment       0x00000000       0x31 src/ASF/common/boards/user_board/init.o
+ .debug_frame   0x00000000       0x24 src/ASF/common/boards/user_board/init.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/clock/xmega/sysclk.o
+ .text          0x00000000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .data          0x00000000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .bss           0x00000000        0x0 src/ASF/common/services/clock/xmega/sysclk.o
+ .text.sysclk_enable_usb
+                0x00000000       0x3a src/ASF/common/services/clock/xmega/sysclk.o
+ .text.sysclk_disable_usb
+                0x00000000       0x14 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0xa6c src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x166 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x66 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x175 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x248 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x68 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000       0x2f src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x00000000      0x154 src/ASF/common/services/clock/xmega/sysclk.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .text          0x00000000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .data          0x00000000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .bss           0x00000000        0x0 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_info    0x00000000       0x6f src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_abbrev  0x00000000       0x29 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_aranges
+                0x00000000       0x18 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x18f src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0xa6c src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x166 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x66 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x175 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000       0x82 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_macro   0x00000000      0x109 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_line    0x00000000      0x426 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .debug_str     0x00000000    0x25cb7 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .comment       0x00000000       0x31 src/ASF/common/services/ioport/xmega/ioport_compat.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/serial/usart_serial.o
+ .text          0x00000000        0x0 src/ASF/common/services/serial/usart_serial.o
+ .data          0x00000000        0x0 src/ASF/common/services/serial/usart_serial.o
+ .bss           0x00000000        0x0 src/ASF/common/services/serial/usart_serial.o
+ .text.usart_serial_write_packet
+                0x00000000       0x38 src/ASF/common/services/serial/usart_serial.o
+ .text.usart_serial_read_packet
+                0x00000000       0x38 src/ASF/common/services/serial/usart_serial.o
+ .debug_info    0x00000000      0x393 src/ASF/common/services/serial/usart_serial.o
+ .debug_abbrev  0x00000000      0x18b src/ASF/common/services/serial/usart_serial.o
+ .debug_loc     0x00000000      0x280 src/ASF/common/services/serial/usart_serial.o
+ .debug_aranges
+                0x00000000       0x28 src/ASF/common/services/serial/usart_serial.o
+ .debug_ranges  0x00000000       0x18 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x21e src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0xa6c src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x166 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x66 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x175 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x248 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x68 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x2f src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000      0x154 src/ASF/common/services/serial/usart_serial.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/serial/usart_serial.o
+ .debug_line    0x00000000      0x5f8 src/ASF/common/services/serial/usart_serial.o
+ .debug_str     0x00000000    0x26aa3 src/ASF/common/services/serial/usart_serial.o
+ .comment       0x00000000       0x31 src/ASF/common/services/serial/usart_serial.o
+ .debug_frame   0x00000000       0x74 src/ASF/common/services/serial/usart_serial.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .text          0x00000000        0x0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .data          0x00000000        0x0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .bss           0x00000000        0x0 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .data.sleepmgr_configs
+                0x00000000        0x6 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0xa6c src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x166 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x66 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000      0x175 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/read.o
+ .text          0x00000000        0x0 src/ASF/common/utils/stdio/read.o
+ .data          0x00000000        0x0 src/ASF/common/utils/stdio/read.o
+ .bss           0x00000000        0x0 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0xa6c src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0x166 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x66 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000      0x175 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/utils/stdio/read.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/common/utils/stdio/write.o
+ .text          0x00000000        0x0 src/ASF/common/utils/stdio/write.o
+ .data          0x00000000        0x0 src/ASF/common/utils/stdio/write.o
+ .bss           0x00000000        0x0 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0xa6c src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0x1ad src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0x293 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x9e src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x9a src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0xf1 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x34 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x18 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x5e src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x22 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0x166 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x1c src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x35 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x66 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x97 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x17 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0x250 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x76 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x16 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x10 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000      0x175 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x40 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x69 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0x32 src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000000       0xe4 src/ASF/common/utils/stdio/write.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/adc.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/adc/adc.o
+ .data          0x00000000        0x0 src/ASF/xmega/drivers/adc/adc.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/adc/adc.o
+ .text.adc_set_callback
+                0x00000000       0x2c src/ASF/xmega/drivers/adc/adc.o
+ .text.adc_disable
+                0x00000000       0x28 src/ASF/xmega/drivers/adc/adc.o
+ .text.adc_is_enabled
+                0x00000000       0x2e src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0xa6c src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x1ad src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x293 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x9e src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x9a src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0xf1 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x34 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x18 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x166 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x1c src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x35 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x66 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x97 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x17 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x250 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x76 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x175 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x40 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x69 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x32 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0xe4 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x20 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x248 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x68 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0x2f src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000      0x154 src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x00000000       0xc7 src/ASF/xmega/drivers/adc/adc.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .data          0x00000000        0x0 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0xa6c src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x1ad src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x293 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x9e src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x9a src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0xf1 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x34 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x18 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x166 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x1c src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x35 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x66 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x97 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x17 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x250 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x76 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x175 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x40 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x69 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x32 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0xe4 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x20 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x248 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x68 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0x2f src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000      0x154 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000000       0xc7 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .data          0x00000000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/cpu/ccp.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/nvm/nvm.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .data          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_read_device_serial
+                0x00000000       0x90 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_read_byte
+                0x00000000       0x22 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_read_buffer
+                0x00000000       0x30 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_flush_buffer
+                0x00000000       0x24 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_load_byte_to_buffer
+                0x00000000       0x24 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_write_byte
+                0x00000000       0x52 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_load_page_to_buffer
+                0x00000000       0x40 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_atomic_write_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_and_write_buffer
+                0x00000000       0x88 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_split_write_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_fill_buffer_with_value
+                0x00000000       0x2a src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_bytes_in_page
+                0x00000000       0x3c src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_page
+                0x00000000       0x14 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_bytes_in_all_pages
+                0x00000000       0x2e src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_eeprom_erase_all
+                0x00000000        0xc src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_issue_flash_range_crc
+                0x00000000       0x5a src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_flash_read_buffer
+                0x00000000       0x2e src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_user_sig_read_buffer
+                0x00000000       0x3e src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_user_sig_write_buffer
+                0x00000000      0x148 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_flash_erase_and_write_buffer
+                0x00000000      0x1b6 src/ASF/xmega/drivers/nvm/nvm.o
+ .text.nvm_fuses_read
+                0x00000000       0x32 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_info    0x00000000     0x13c6 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_abbrev  0x00000000      0x3de src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_loc     0x00000000     0x1141 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_aranges
+                0x00000000       0xc0 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_ranges  0x00000000       0xb0 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x198 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0xa6c src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x1ad src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x293 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x9e src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x9a src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0xf1 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x34 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x18 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x166 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x1c src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x35 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x66 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x97 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x17 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x250 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x76 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000      0x175 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x40 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x69 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x32 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0xe4 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x26 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_line    0x00000000      0xb39 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_str     0x00000000    0x262a8 src/ASF/xmega/drivers/nvm/nvm.o
+ .comment       0x00000000       0x31 src/ASF/xmega/drivers/nvm/nvm.o
+ .debug_frame   0x00000000      0x348 src/ASF/xmega/drivers/nvm/nvm.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .data          0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .BOOT          0x00000000       0x44 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/ASF/xmega/drivers/usart/usart.o
+ .text          0x00000000        0x0 src/ASF/xmega/drivers/usart/usart.o
+ .data          0x00000000        0x0 src/ASF/xmega/drivers/usart/usart.o
+ .bss           0x00000000        0x0 src/ASF/xmega/drivers/usart/usart.o
+ .text.usart_set_bsel_bscale_value
+                0x00000000       0x10 src/ASF/xmega/drivers/usart/usart.o
+ .text.usart_set_baudrate_precalculated
+                0x00000000       0xd0 src/ASF/xmega/drivers/usart/usart.o
+ .text.usart_spi_set_baudrate
+                0x00000000       0x64 src/ASF/xmega/drivers/usart/usart.o
+ .text.usart_init_spi
+                0x00000000      0x3c0 src/ASF/xmega/drivers/usart/usart.o
+ .progmem.data.baudctrl_32mhz
+                0x00000000        0xe src/ASF/xmega/drivers/usart/usart.o
+ .progmem.data.baudctrl_2mhz
+                0x00000000        0xe src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0xa6c src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x1ad src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x9e src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000     0x5cc8 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x9a src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0xf1 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x34 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x18 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x5e src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x166 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x1c src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x35 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x66 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x4d1 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x97 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x17 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x250 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x76 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x16 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x6e3 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x10 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x175 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x40 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x69 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x32 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0xe4 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x34 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x22 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x248 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x68 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x2f src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000      0x154 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000000       0x82 src/ASF/xmega/drivers/usart/usart.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .group         0x00000000        0x8 src/main.o
+ .text          0x00000000        0x0 src/main.o
+ .data          0x00000000        0x0 src/main.o
+ .bss           0x00000000        0x0 src/main.o
+ .text.VoltToG  0x00000000       0x1a src/main.o
+ .debug_macro   0x00000000      0xa6c src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000      0x1ad src/main.o
+ .debug_macro   0x00000000      0x293 src/main.o
+ .debug_macro   0x00000000       0x9e src/main.o
+ .debug_macro   0x00000000     0x5cc8 src/main.o
+ .debug_macro   0x00000000       0x9a src/main.o
+ .debug_macro   0x00000000       0xf1 src/main.o
+ .debug_macro   0x00000000       0x34 src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0x18 src/main.o
+ .debug_macro   0x00000000       0x5e src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0x22 src/main.o
+ .debug_macro   0x00000000      0x166 src/main.o
+ .debug_macro   0x00000000       0x1c src/main.o
+ .debug_macro   0x00000000       0x35 src/main.o
+ .debug_macro   0x00000000       0x66 src/main.o
+ .debug_macro   0x00000000      0x4d1 src/main.o
+ .debug_macro   0x00000000       0x97 src/main.o
+ .debug_macro   0x00000000       0x17 src/main.o
+ .debug_macro   0x00000000      0x250 src/main.o
+ .debug_macro   0x00000000       0x76 src/main.o
+ .debug_macro   0x00000000       0x16 src/main.o
+ .debug_macro   0x00000000      0x6e3 src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000      0x175 src/main.o
+ .debug_macro   0x00000000       0x40 src/main.o
+ .debug_macro   0x00000000       0x69 src/main.o
+ .debug_macro   0x00000000       0x32 src/main.o
+ .debug_macro   0x00000000       0xe4 src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0x20 src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0x5e src/main.o
+ .debug_macro   0x00000000       0x22 src/main.o
+ .debug_macro   0x00000000      0x248 src/main.o
+ .debug_macro   0x00000000       0x68 src/main.o
+ .debug_macro   0x00000000       0x2f src/main.o
+ .debug_macro   0x00000000      0x154 src/main.o
+ .debug_macro   0x00000000       0xc7 src/main.o
+ .debug_macro   0x00000000       0x34 src/main.o
+ .debug_macro   0x00000000       0x82 src/main.o
+ .debug_macro   0x00000000       0x58 src/main.o
+ .debug_macro   0x00000000       0x10 src/main.o
+ .debug_macro   0x00000000       0xeb src/main.o
+ .debug_macro   0x00000000       0x3a src/main.o
+ .debug_macro   0x00000000       0x16 src/main.o
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(floatsisf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(floatsisf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(floatsisf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_inf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_inf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_inf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_nan.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_nan.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_nan.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscA.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscA.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscA.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscB.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscB.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscB.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_round.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_round.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_round.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_split3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_split3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_split3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_zero.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_zero.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_zero.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3x.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3x.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3x.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.mul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.div
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc   0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.prologue
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.builtins
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fmul
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text.libgcc.fixed
+                0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ftoa_engine.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ftoa_engine.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ftoa_engine.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+ .text.avr-libc
+                0x00000000       0x12 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memcpy.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(iob.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(iob.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(iob.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(printf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(printf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(printf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(scanf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(scanf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(scanf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(sprintf.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(sprintf.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(sprintf.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr_P.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr_P.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr_P.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memset.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memset.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memset.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fgetc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fgetc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fgetc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ungetc.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ungetc.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ungetc.o)
+ .text          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+ .data          0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+ .bss           0x00000000        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+text             0x00000000         0x00100000         xr
+data             0x00802000         0x0000ffa0         rw !x
+eeprom           0x00810000         0x00010000         rw !x
+fuse             0x00820000         0x00000400         rw !x
+lock             0x00830000         0x00000400         rw !x
+signature        0x00840000         0x00000400         rw !x
+user_signatures  0x00850000         0x00000400         rw !x
+*default*        0x00000000         0xffffffff
+
+Linker script and memory map
+
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+LOAD src/ASF/common/boards/user_board/init.o
+LOAD src/ASF/common/services/clock/xmega/sysclk.o
+LOAD src/ASF/common/services/ioport/xmega/ioport_compat.o
+LOAD src/ASF/common/services/serial/usart_serial.o
+LOAD src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+LOAD src/ASF/common/utils/stdio/read.o
+LOAD src/ASF/common/utils/stdio/write.o
+LOAD src/ASF/xmega/drivers/adc/adc.o
+LOAD src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+LOAD src/ASF/xmega/drivers/cpu/ccp.o
+LOAD src/ASF/xmega/drivers/nvm/nvm.o
+LOAD src/ASF/xmega/drivers/nvm/nvm_asm.o
+LOAD src/ASF/xmega/drivers/usart/usart.o
+LOAD src/main.o
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a
+END GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a
+START GROUP
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a
+LOAD c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a
+END GROUP
+
+.hash
+ *(.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rel.init
+ *(.rel.init)
+
+.rela.init
+ *(.rela.init)
+
+.rel.text
+ *(.rel.text)
+ *(.rel.text.*)
+ *(.rel.gnu.linkonce.t*)
+
+.rela.text
+ *(.rela.text)
+ *(.rela.text.*)
+ *(.rela.gnu.linkonce.t*)
+
+.rel.fini
+ *(.rel.fini)
+
+.rela.fini
+ *(.rela.fini)
+
+.rel.rodata
+ *(.rel.rodata)
+ *(.rel.rodata.*)
+ *(.rel.gnu.linkonce.r*)
+
+.rela.rodata
+ *(.rela.rodata)
+ *(.rela.rodata.*)
+ *(.rela.gnu.linkonce.r*)
+
+.rel.data
+ *(.rel.data)
+ *(.rel.data.*)
+ *(.rel.gnu.linkonce.d*)
+
+.rela.data
+ *(.rela.data)
+ *(.rela.data.*)
+ *(.rela.gnu.linkonce.d*)
+
+.rel.ctors
+ *(.rel.ctors)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rel.dtors
+ *(.rel.dtors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rel.got
+ *(.rel.got)
+
+.rela.got
+ *(.rela.got)
+
+.rel.bss
+ *(.rel.bss)
+
+.rela.bss
+ *(.rela.bss)
+
+.rel.plt
+ *(.rel.plt)
+
+.rela.plt
+ *(.rela.plt)
+
+.text           0x00000000     0x26d6
+ *(.vectors)
+ .vectors       0x00000000      0x1fc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+                0x00000000                __vector_default
+                0x00000000                __vectors
+ *(.vectors)
+ *(.progmem.gcc*)
+                0x000001fc                . = ALIGN (0x2)
+                0x000001fc                __trampolines_start = .
+ *(.trampolines)
+ .trampolines   0x000001fc        0x0 linker stubs
+ *(.trampolines*)
+                0x000001fc                __trampolines_end = .
+ *(.progmem*)
+ .progmem.data  0x000001fc        0x8 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o)
+ .progmem.data  0x00000204       0xfa c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ftoa_engine.o)
+ .progmem.data  0x000002fe        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o)
+                0x0000030a                . = ALIGN (0x2)
+ *(.jumptables)
+ *(.jumptables*)
+ *(.lowtext)
+ *(.lowtext*)
+                0x0000030a                __ctors_start = .
+ *(.ctors)
+                0x0000030a                __ctors_end = .
+                0x0000030a                __dtors_start = .
+ *(.dtors)
+                0x0000030a                __dtors_end = .
+ SORT(*)(.ctors)
+ SORT(*)(.dtors)
+ *(.init0)
+ .init0         0x0000030a        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+                0x0000030a                __init
+ *(.init0)
+ *(.init1)
+ *(.init1)
+ *(.init2)
+ .init2         0x0000030a       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ *(.init2)
+ *(.init3)
+ *(.init3)
+ *(.init4)
+ .init4         0x0000031a       0x1a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_copy_data.o)
+                0x0000031a                __do_copy_data
+ .init4         0x00000334       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_clear_bss.o)
+                0x00000334                __do_clear_bss
+ *(.init4)
+ *(.init5)
+ *(.init5)
+ *(.init6)
+ *(.init6)
+ *(.init7)
+ *(.init7)
+ *(.init8)
+ *(.init8)
+ *(.init9)
+ .init9         0x00000344        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+ *(.init9)
+ *(.text)
+ .text          0x0000034a        0x2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6/crtx256a3bu.o
+                0x0000034a                __vector_38
+                0x0000034a                __vector_104
+                0x0000034a                __vector_22
+                0x0000034a                __vector_63
+                0x0000034a                __vector_28
+                0x0000034a                __vector_67
+                0x0000034a                __vector_1
+                0x0000034a                __vector_119
+                0x0000034a                __vector_32
+                0x0000034a                __vector_75
+                0x0000034a                __vector_91
+                0x0000034a                __vector_34
+                0x0000034a                __vector_62
+                0x0000034a                __vector_77
+                0x0000034a                __vector_102
+                0x0000034a                __vector_24
+                0x0000034a                __vector_12
+                0x0000034a                __vector_55
+                0x0000034a                __vector_69
+                0x0000034a                __vector_81
+                0x0000034a                __vector_90
+                0x0000034a                __vector_46
+                0x0000034a                __bad_interrupt
+                0x0000034a                __vector_122
+                0x0000034a                __vector_114
+                0x0000034a                __vector_6
+                0x0000034a                __vector_110
+                0x0000034a                __vector_31
+                0x0000034a                __vector_92
+                0x0000034a                __vector_35
+                0x0000034a                __vector_78
+                0x0000034a                __vector_117
+                0x0000034a                __vector_107
+                0x0000034a                __vector_3
+                0x0000034a                __vector_105
+                0x0000034a                __vector_98
+                0x0000034a                __vector_23
+                0x0000034a                __vector_68
+                0x0000034a                __vector_30
+                0x0000034a                __vector_45
+                0x0000034a                __vector_25
+                0x0000034a                __vector_93
+                0x0000034a                __vector_61
+                0x0000034a                __vector_11
+                0x0000034a                __vector_54
+                0x0000034a                __vector_99
+                0x0000034a                __vector_13
+                0x0000034a                __vector_17
+                0x0000034a                __vector_19
+                0x0000034a                __vector_56
+                0x0000034a                __vector_7
+                0x0000034a                __vector_125
+                0x0000034a                __vector_49
+                0x0000034a                __vector_123
+                0x0000034a                __vector_86
+                0x0000034a                __vector_100
+                0x0000034a                __vector_101
+                0x0000034a                __vector_64
+                0x0000034a                __vector_88
+                0x0000034a                __vector_109
+                0x0000034a                __vector_43
+                0x0000034a                __vector_27
+                0x0000034a                __vector_5
+                0x0000034a                __vector_113
+                0x0000034a                __vector_33
+                0x0000034a                __vector_76
+                0x0000034a                __vector_115
+                0x0000034a                __vector_47
+                0x0000034a                __vector_52
+                0x0000034a                __vector_37
+                0x0000034a                __vector_95
+                0x0000034a                __vector_103
+                0x0000034a                __vector_96
+                0x0000034a                __vector_89
+                0x0000034a                __vector_108
+                0x0000034a                __vector_4
+                0x0000034a                __vector_44
+                0x0000034a                __vector_82
+                0x0000034a                __vector_106
+                0x0000034a                __vector_118
+                0x0000034a                __vector_51
+                0x0000034a                __vector_9
+                0x0000034a                __vector_2
+                0x0000034a                __vector_21
+                0x0000034a                __vector_15
+                0x0000034a                __vector_66
+                0x0000034a                __vector_36
+                0x0000034a                __vector_79
+                0x0000034a                __vector_58
+                0x0000034a                __vector_70
+                0x0000034a                __vector_83
+                0x0000034a                __vector_29
+                0x0000034a                __vector_60
+                0x0000034a                __vector_121
+                0x0000034a                __vector_85
+                0x0000034a                __vector_94
+                0x0000034a                __vector_126
+                0x0000034a                __vector_8
+                0x0000034a                __vector_26
+                0x0000034a                __vector_48
+                0x0000034a                __vector_124
+                0x0000034a                __vector_116
+                0x0000034a                __vector_112
+                0x0000034a                __vector_111
+                0x0000034a                __vector_80
+                0x0000034a                __vector_14
+                0x0000034a                __vector_84
+                0x0000034a                __vector_57
+                0x0000034a                __vector_53
+                0x0000034a                __vector_10
+                0x0000034a                __vector_50
+                0x0000034a                __vector_16
+                0x0000034a                __vector_59
+                0x0000034a                __vector_18
+                0x0000034a                __vector_97
+                0x0000034a                __vector_20
+                0x0000034a                __vector_87
+                0x0000034a                __vector_65
+                0x0000034a                __vector_120
+                0x0000034c                . = ALIGN (0x2)
+ *(.text.*)
+ .text.sysclk_init
+                0x0000034c       0x4e src/ASF/common/services/clock/xmega/sysclk.o
+                0x0000034c                sysclk_init
+ .text.sysclk_enable_module
+                0x0000039a       0x18 src/ASF/common/services/clock/xmega/sysclk.o
+                0x0000039a                sysclk_enable_module
+ .text.sysclk_disable_module
+                0x000003b2       0x16 src/ASF/common/services/clock/xmega/sysclk.o
+                0x000003b2                sysclk_disable_module
+ .text._read    0x000003c8       0x32 src/ASF/common/utils/stdio/read.o
+                0x000003c8                _read
+ .text._write   0x000003fa       0x24 src/ASF/common/utils/stdio/write.o
+                0x000003fa                _write
+ .text.adc_enable_clock
+                0x0000041e       0x3e src/ASF/xmega/drivers/adc/adc.o
+                0x0000041e                adc_enable_clock
+ .text.adc_disable_clock
+                0x0000045c       0x3a src/ASF/xmega/drivers/adc/adc.o
+                0x0000045c                adc_disable_clock
+ .text.adc_enable
+                0x00000496       0x2e src/ASF/xmega/drivers/adc/adc.o
+                0x00000496                adc_enable
+ .text.__vector_71
+                0x000004c4       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x000004c4                __vector_71
+ .text.__vector_72
+                0x00000528       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x00000528                __vector_72
+ .text.__vector_73
+                0x0000058c       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x0000058c                __vector_73
+ .text.__vector_74
+                0x000005f0       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x000005f0                __vector_74
+ .text.__vector_39
+                0x00000654       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x00000654                __vector_39
+ .text.__vector_40
+                0x000006b8       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x000006b8                __vector_40
+ .text.__vector_41
+                0x0000071c       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x0000071c                __vector_41
+ .text.__vector_42
+                0x00000780       0x64 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x00000780                __vector_42
+ .text.adc_write_configuration
+                0x000007e4       0xa2 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x000007e4                adc_write_configuration
+ .text.adc_read_configuration
+                0x00000886       0x46 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x00000886                adc_read_configuration
+ .text.adcch_write_configuration
+                0x000008cc       0x72 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x000008cc                adcch_write_configuration
+ .text.adcch_read_configuration
+                0x0000093e       0x74 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                0x0000093e                adcch_read_configuration
+ .text.ccp_write_io
+                0x000009b2        0xc src/ASF/xmega/drivers/cpu/ccp.o
+                0x000009b2                ccp_write_io
+ .text.nvm_read_byte
+                0x000009be       0x14 src/ASF/xmega/drivers/nvm/nvm_asm.o
+                0x000009be                nvm_read_byte
+ .text.usart_putchar
+                0x000009d2       0x10 src/ASF/xmega/drivers/usart/usart.o
+                0x000009d2                usart_putchar
+ .text.usart_getchar
+                0x000009e2        0xc src/ASF/xmega/drivers/usart/usart.o
+                0x000009e2                usart_getchar
+ .text.usart_set_baudrate
+                0x000009ee      0x20c src/ASF/xmega/drivers/usart/usart.o
+                0x000009ee                usart_set_baudrate
+ .text.usart_init_rs232
+                0x00000bfa      0x228 src/ASF/xmega/drivers/usart/usart.o
+                0x00000bfa                usart_init_rs232
+ .text.usart_serial_getchar
+                0x00000e22       0x10 src/main.o
+ .text.usart_serial_putchar
+                0x00000e32        0x4 src/main.o
+ .text.MeanOversampled
+                0x00000e36       0x3c src/main.o
+                0x00000e36                MeanOversampled
+ .text.FloatToString
+                0x00000e72       0x3a src/main.o
+                0x00000e72                FloatToString
+ .text.main     0x00000eac      0x12a src/main.o
+                0x00000eac                main
+ .text.avr-libc.fplib
+                0x00000fd6        0xa c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3.o)
+                0x00000fd6                __subsf3
+                0x00000fd8                __addsf3
+ .text.avr-libc.fplib
+                0x00000fe0       0xc0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(addsf3x.o)
+                0x00000ffa                __addsf3x
+ .text.avr-libc.fplib
+                0x000010a0       0x7a c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(floatsisf.o)
+                0x000010a0                __floatunsisf
+                0x000010a4                __floatsisf
+ .text.avr-libc.fplib
+                0x0000111a        0xc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_inf.o)
+                0x0000111a                __fp_inf
+ .text.avr-libc.fplib
+                0x00001126        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_nan.o)
+                0x00001126                __fp_nan
+ .text.avr-libc.fplib
+                0x0000112c        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscA.o)
+                0x0000112c                __fp_pscA
+ .text.avr-libc.fplib
+                0x0000113a        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_pscB.o)
+                0x0000113a                __fp_pscB
+ .text.avr-libc.fplib
+                0x00001148       0x22 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_round.o)
+                0x00001148                __fp_round
+ .text.avr-libc.fplib
+                0x0000116a       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_split3.o)
+                0x0000116a                __fp_split3
+                0x0000117a                __fp_splitA
+ .text.avr-libc.fplib
+                0x000011ae        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(fp_zero.o)
+                0x000011ae                __fp_zero
+                0x000011b0                __fp_szero
+ .text.avr-libc.fplib
+                0x000011bc        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3.o)
+                0x000011bc                __mulsf3
+ .text.avr-libc.fplib
+                0x000011c0       0xc2 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libm.a(mulsf3x.o)
+                0x000011d4                __mulsf3x
+                0x000011d8                __mulsf3_pse
+ .text.avr-libc
+                0x00001282      0x702 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o)
+                0x00001282                vfprintf
+ .text.libgcc.div
+                0x00001984       0x44 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_udivmodsi4.o)
+                0x00001984                __udivmodsi4
+ .text.avr-libc
+                0x000019c8      0x1b0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ftoa_engine.o)
+                0x000019c8                __ftoa_engine
+ .text.avr-libc
+                0x00001b78       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen_P.o)
+                0x00001b78                strnlen_P
+ .text.avr-libc
+                0x00001b8e       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr.o)
+                0x00001b8e                strchr
+ .text.avr-libc
+                0x00001ba4       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strnlen.o)
+                0x00001ba4                strnlen
+ .text.avr-libc
+                0x00001bba       0x94 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o)
+                0x00001bba                fdevopen
+ .text.avr-libc
+                0x00001c4e       0x64 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+                0x00001c4e                fputc
+ .text.avr-libc
+                0x00001cb2       0x22 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(printf.o)
+                0x00001cb2                printf
+ .text.avr-libc
+                0x00001cd4       0x22 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(scanf.o)
+                0x00001cd4                scanf
+ .text.avr-libc
+                0x00001cf6       0x50 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(sprintf.o)
+                0x00001cf6                sprintf
+ .text.avr-libc
+                0x00001d46       0xbc c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ultoa_invert.o)
+                0x00001d46                __ultoa_invert
+ .text.avr-libc
+                0x00001e02      0x566 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o)
+                0x00002116                vfscanf
+ .text.avr-libc
+                0x00002368       0x34 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o)
+                0x00002368                calloc
+ .text.avr-libc
+                0x0000239c      0x24e c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+                0x0000239c                malloc
+                0x000024cc                free
+ .text.avr-libc
+                0x000025ea       0x10 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(isspace.o)
+                0x000025ea                isspace
+ .text.avr-libc
+                0x000025fa       0x16 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(strchr_P.o)
+                0x000025fa                strchr_P
+ .text.avr-libc
+                0x00002610        0xe c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(memset.o)
+                0x00002610                memset
+ .text.avr-libc
+                0x0000261e       0x7c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fgetc.o)
+                0x0000261e                fgetc
+ .text.avr-libc
+                0x0000269a       0x32 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ungetc.o)
+                0x0000269a                ungetc
+ .text.avr-libc
+                0x000026cc        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(cty_isfalse.o)
+                0x000026cc                __ctype_isfalse
+                0x000026d0                __ctype_istrue
+                0x000026d2                . = ALIGN (0x2)
+ *(.fini9)
+ .fini9         0x000026d2        0x0 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+                0x000026d2                _exit
+                0x000026d2                exit
+ *(.fini9)
+ *(.fini8)
+ *(.fini8)
+ *(.fini7)
+ *(.fini7)
+ *(.fini6)
+ *(.fini6)
+ *(.fini5)
+ *(.fini5)
+ *(.fini4)
+ *(.fini4)
+ *(.fini3)
+ *(.fini3)
+ *(.fini2)
+ *(.fini2)
+ *(.fini1)
+ *(.fini1)
+ *(.fini0)
+ .fini0         0x000026d2        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/avrxmega6\libgcc.a(_exit.o)
+ *(.fini0)
+                0x000026d6                _etext = .
+
+.data           0x00802000       0x18 load address 0x000026d6
+                0x00802000                PROVIDE (__data_start, .)
+ *(.data)
+ .data          0x00802000        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+                0x00802000                __malloc_heap_end
+                0x00802002                __malloc_heap_start
+                0x00802004                __malloc_margin
+ *(.data*)
+ .data.USART_SERIAL_OPTIONS.5568
+                0x00802006        0x7 src/main.o
+ *(.rodata)
+ *(.rodata*)
+ .rodata.str1.1
+                0x0080200d        0xa src/main.o
+ *(.gnu.linkonce.d*)
+                0x00802018                . = ALIGN (0x2)
+ *fill*         0x00802017        0x1 
+                0x00802018                _edata = .
+                0x00802018                PROVIDE (__data_end, .)
+
+.bss            0x00802018       0x2c
+                0x00802018                PROVIDE (__bss_start, .)
+ *(.bss)
+ *(.bss*)
+ .bss.adcb_enable_count
+                0x00802018        0x1 src/ASF/xmega/drivers/adc/adc.o
+ .bss.adca_enable_count
+                0x00802019        0x1 src/ASF/xmega/drivers/adc/adc.o
+ .bss.scResult.5585
+                0x0080201a       0x10 src/main.o
+ *(COMMON)
+ COMMON         0x0080202a        0x6 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+                0x0080202a                sleepmgr_locks
+ COMMON         0x00802030        0x2 src/ASF/common/utils/stdio/read.o
+                0x00802030                ptr_get
+ COMMON         0x00802032        0x4 src/ASF/common/utils/stdio/write.o
+                0x00802032                ptr_put
+                0x00802034                stdio_base
+ COMMON         0x00802036        0x4 src/ASF/xmega/drivers/adc/adc.o
+                0x00802036                adcb_callback
+                0x00802038                adca_callback
+ COMMON         0x0080203a        0x6 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(iob.o)
+                0x0080203a                __iob
+ COMMON         0x00802040        0x4 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+                0x00802040                __brkval
+                0x00802042                __flp
+                0x00802044                PROVIDE (__bss_end, .)
+                0x000026d6                __data_load_start = LOADADDR (.data)
+                0x000026ee                __data_load_end = (__data_load_start + SIZEOF (.data))
+
+.noinit         0x00802044        0x0
+                0x00802044                PROVIDE (__noinit_start, .)
+ *(.noinit*)
+                0x00802044                PROVIDE (__noinit_end, .)
+                0x00802044                _end = .
+                0x00802044                PROVIDE (__heap_start, .)
+
+.eeprom         0x00810000        0x0
+ *(.eeprom*)
+                0x00810000                __eeprom_end = .
+
+.fuse
+ *(.fuse)
+ *(.lfuse)
+ *(.hfuse)
+ *(.efuse)
+
+.lock
+ *(.lock*)
+
+.signature
+ *(.signature*)
+
+.user_signatures
+ *(.user_signatures*)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x00000000       0x5c
+ *(.comment)
+ .comment       0x00000000       0x30 src/ASF/common/services/clock/xmega/sysclk.o
+                                 0x31 (size before relaxing)
+ .comment       0x00000000       0x31 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .comment       0x00000000       0x31 src/ASF/common/utils/stdio/read.o
+ .comment       0x00000000       0x31 src/ASF/common/utils/stdio/write.o
+ .comment       0x00000000       0x31 src/ASF/xmega/drivers/adc/adc.o
+ .comment       0x00000000       0x31 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .comment       0x00000000       0x31 src/ASF/xmega/drivers/usart/usart.o
+ .comment       0x00000000       0x31 src/main.o
+ .comment       0x00000030       0x2c c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libprintf_flt.a(vfprintf_flt.o)
+                                 0x2d (size before relaxing)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fdevopen.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fputc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(iob.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(printf.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(scanf.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(sprintf.o)
+ .comment       0x00000000       0x2d c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(vfscanf_std.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(calloc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(malloc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(fgetc.o)
+ .comment       0x00000000       0x31 c:/program files (x86)/atmel/atmel toolchain/avr8 gcc/native/3.4.1061/avr8-gnu-toolchain/bin/../lib/gcc/avr/4.8.1/../../../../avr/lib/avrxmega6\libc.a(ungetc.o)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x00000000      0x240
+ *(.debug_aranges)
+ .debug_aranges
+                0x00000000       0x40 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_aranges
+                0x00000040       0x18 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_aranges
+                0x00000058       0x20 src/ASF/common/utils/stdio/read.o
+ .debug_aranges
+                0x00000078       0x20 src/ASF/common/utils/stdio/write.o
+ .debug_aranges
+                0x00000098       0x48 src/ASF/xmega/drivers/adc/adc.o
+ .debug_aranges
+                0x000000e0       0x78 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_aranges
+                0x00000158       0x20 src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_aranges
+                0x00000178       0x28 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_aranges
+                0x000001a0       0x58 src/ASF/xmega/drivers/usart/usart.o
+ .debug_aranges
+                0x000001f8       0x48 src/main.o
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x00000000     0x6df2
+ *(.debug_info .gnu.linkonce.wi.*)
+ .debug_info    0x00000000      0x82d src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_info    0x0000082d      0x121 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_info    0x0000094e      0x119 src/ASF/common/utils/stdio/read.o
+ .debug_info    0x00000a67      0x119 src/ASF/common/utils/stdio/write.o
+ .debug_info    0x00000b80      0xaad src/ASF/xmega/drivers/adc/adc.o
+ .debug_info    0x0000162d      0xec2 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_info    0x000024ef       0x8f src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_info    0x0000257e       0x8f src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_info    0x0000260d     0x2d0f src/ASF/xmega/drivers/usart/usart.o
+ .debug_info    0x0000531c     0x1ad6 src/main.o
+
+.debug_abbrev   0x00000000     0x129f
+ *(.debug_abbrev)
+ .debug_abbrev  0x00000000      0x27b src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_abbrev  0x0000027b       0x80 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_abbrev  0x000002fb       0xc5 src/ASF/common/utils/stdio/read.o
+ .debug_abbrev  0x000003c0       0xa7 src/ASF/common/utils/stdio/write.o
+ .debug_abbrev  0x00000467      0x2b9 src/ASF/xmega/drivers/adc/adc.o
+ .debug_abbrev  0x00000720      0x32a src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_abbrev  0x00000a4a       0x14 src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_abbrev  0x00000a5e       0x12 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_abbrev  0x00000a70      0x3e8 src/ASF/xmega/drivers/usart/usart.o
+ .debug_abbrev  0x00000e58      0x447 src/main.o
+
+.debug_line     0x00000000     0x39d2
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x00000000      0x648 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_line    0x00000648      0x432 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_line    0x00000a7a      0x3af src/ASF/common/utils/stdio/read.o
+ .debug_line    0x00000e29      0x3b6 src/ASF/common/utils/stdio/write.o
+ .debug_line    0x000011df      0x763 src/ASF/xmega/drivers/adc/adc.o
+ .debug_line    0x00001942      0x949 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_line    0x0000228b       0x6e src/ASF/xmega/drivers/cpu/ccp.o
+ .debug_line    0x000022f9      0x11f src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_line    0x00002418      0xc33 src/ASF/xmega/drivers/usart/usart.o
+ .debug_line    0x0000304b      0x987 src/main.o
+
+.debug_frame    0x00000000      0x6e0
+ *(.debug_frame)
+ .debug_frame   0x00000000       0x64 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_frame   0x00000064       0x34 src/ASF/common/utils/stdio/read.o
+ .debug_frame   0x00000098       0x24 src/ASF/common/utils/stdio/write.o
+ .debug_frame   0x000000bc       0x8c src/ASF/xmega/drivers/adc/adc.o
+ .debug_frame   0x00000148      0x3a4 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_frame   0x000004ec      0x148 src/ASF/xmega/drivers/usart/usart.o
+ .debug_frame   0x00000634       0xac src/main.o
+
+.debug_str      0x00000000    0x29b64
+ *(.debug_str)
+ .debug_str     0x00000000    0x264ba src/ASF/common/services/clock/xmega/sysclk.o
+                              0x26c80 (size before relaxing)
+ .debug_str     0x000264ba      0x4bf src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+                              0x25b7a (size before relaxing)
+ .debug_str     0x00026979       0x3e src/ASF/common/utils/stdio/read.o
+                              0x256ea (size before relaxing)
+ .debug_str     0x000269b7       0x35 src/ASF/common/utils/stdio/write.o
+                              0x256ec (size before relaxing)
+ .debug_str     0x000269ec      0x92e src/ASF/xmega/drivers/adc/adc.o
+                              0x276ac (size before relaxing)
+ .debug_str     0x0002731a      0x586 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+                              0x2790b (size before relaxing)
+ .debug_str     0x000278a0     0x103b src/ASF/xmega/drivers/usart/usart.o
+                              0x27c24 (size before relaxing)
+ .debug_str     0x000288db     0x1289 src/main.o
+                              0x2912e (size before relaxing)
+
+.debug_loc      0x00000000     0x261b
+ *(.debug_loc)
+ .debug_loc     0x00000000      0x235 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_loc     0x00000235       0x6e src/ASF/common/utils/stdio/read.o
+ .debug_loc     0x000002a3       0x52 src/ASF/common/utils/stdio/write.o
+ .debug_loc     0x000002f5      0x216 src/ASF/xmega/drivers/adc/adc.o
+ .debug_loc     0x0000050b      0xd75 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_loc     0x00001280      0xfe9 src/ASF/xmega/drivers/usart/usart.o
+ .debug_loc     0x00002269      0x3b2 src/main.o
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x00000000      0x1c8
+ *(.debug_ranges)
+ .debug_ranges  0x00000000       0x30 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_ranges  0x00000030       0x10 src/ASF/common/utils/stdio/read.o
+ .debug_ranges  0x00000040       0x10 src/ASF/common/utils/stdio/write.o
+ .debug_ranges  0x00000050       0x38 src/ASF/xmega/drivers/adc/adc.o
+ .debug_ranges  0x00000088       0x68 src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_ranges  0x000000f0       0x20 src/ASF/xmega/drivers/nvm/nvm_asm.o
+ .debug_ranges  0x00000110       0x80 src/ASF/xmega/drivers/usart/usart.o
+ .debug_ranges  0x00000190       0x38 src/main.o
+
+.debug_macro    0x00000000     0x12e2
+ *(.debug_macro)
+ .debug_macro   0x00000000      0x1e6 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x000001e6       0x26 src/ASF/common/services/clock/xmega/sysclk.o
+ .debug_macro   0x0000020c      0x1a3 src/ASF/common/services/sleepmgr/xmega/sleepmgr.o
+ .debug_macro   0x000003af      0x16d src/ASF/common/utils/stdio/read.o
+ .debug_macro   0x0000051c      0x16d src/ASF/common/utils/stdio/write.o
+ .debug_macro   0x00000689      0x23a src/ASF/xmega/drivers/adc/adc.o
+ .debug_macro   0x000008c3      0x23a src/ASF/xmega/drivers/adc/xmega_aau/adc_aau.o
+ .debug_macro   0x00000afd      0x219 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000d16      0x299 src/ASF/xmega/drivers/usart/usart.o
+ .debug_macro   0x00000faf      0x333 src/main.o
+OUTPUT(ADC.elf elf32-avr)
+LOAD linker stubs

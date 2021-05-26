@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Atmel Studio Solution File, Format Version 11.00
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "GPIO", "GPIO\GPIO.cproj", "{90493AFE-6B10-4284-A840-5F04B31D26FD}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "UART", "UART\UART.cproj", "{FF7BEBC7-19DE-4DBC-8B9E-06BB85A2C4D0}"
+EndProject
+Project("{54F91283-7BC4-4236-8FF9-10F437C3AD48}") = "ADC", "ADC\ADC.cproj", "{393A12DA-382F-44A4-919C-F08775B73138}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|AVR = Debug|AVR
+		Release|AVR = Release|AVR
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{90493AFE-6B10-4284-A840-5F04B31D26FD}.Debug|AVR.ActiveCfg = Debug|AVR
+		{90493AFE-6B10-4284-A840-5F04B31D26FD}.Debug|AVR.Build.0 = Debug|AVR
+		{90493AFE-6B10-4284-A840-5F04B31D26FD}.Release|AVR.ActiveCfg = Release|AVR
+		{90493AFE-6B10-4284-A840-5F04B31D26FD}.Release|AVR.Build.0 = Release|AVR
+		{FF7BEBC7-19DE-4DBC-8B9E-06BB85A2C4D0}.Debug|AVR.ActiveCfg = Debug|AVR
+		{FF7BEBC7-19DE-4DBC-8B9E-06BB85A2C4D0}.Debug|AVR.Build.0 = Debug|AVR
+		{FF7BEBC7-19DE-4DBC-8B9E-06BB85A2C4D0}.Release|AVR.ActiveCfg = Release|AVR
+		{FF7BEBC7-19DE-4DBC-8B9E-06BB85A2C4D0}.Release|AVR.Build.0 = Release|AVR
+		{393A12DA-382F-44A4-919C-F08775B73138}.Debug|AVR.ActiveCfg = Debug|AVR
+		{393A12DA-382F-44A4-919C-F08775B73138}.Debug|AVR.Build.0 = Debug|AVR
+		{393A12DA-382F-44A4-919C-F08775B73138}.Release|AVR.ActiveCfg = Release|AVR
+		{393A12DA-382F-44A4-919C-F08775B73138}.Release|AVR.Build.0 = Release|AVR
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
